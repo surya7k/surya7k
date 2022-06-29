@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @surya7k
 - 👀 I’m interested in Java, computer security, and sports.
-- 🌱 I’m currently learning Java and Linux. 
+- 🌱 I’m currently learning Java, Python and Linux. 
 - 💞️ I’m looking to collaborate on any type of Java projects. 
 - 📫 How to reach me:
-          -Email: suryankarthik1@gmail.com
+          -Email: szk6111@psu.edu
           -Phone: 484-904-5989
 
 <!---
